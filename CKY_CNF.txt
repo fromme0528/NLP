@@ -1,0 +1,8 @@
+S -> e 
+S -> AB
+S -> XB
+T -> AB
+T -> XB 
+X -> AT 
+A -> a 
+B -> b
